@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.22)  29 AUG 2022 09:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.22)  29 AUG 2022 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -64,20 +64,20 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 (./Congruency.aux)
 \openout1 = `Congruency.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -103,95 +103,97 @@ e
 ))
 Chapter 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 15.
+(Font)              <5> on input line 16.
 [1
 
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<eqtri.png, id=13, 18.13248pt x 14.30048pt>
-File: eqtri.png Graphic file (type png)
-<use eqtri.png>
-Package pdftex.def Info: eqtri.png  used on input line 29.
+<prettyPictures//eqtri.png, id=13, 18.13248pt x 14.30048pt>
+File: prettyPictures//eqtri.png Graphic file (type png)
+<use prettyPictures//eqtri.png>
+Package pdftex.def Info: prettyPictures//eqtri.png  used on input line 33.
 (pdftex.def)             Requested size: 120.7521pt x 95.2719pt.
-<fav.png, id=15, 760.8425pt x 628.3475pt>
-File: fav.png Graphic file (type png)
-<use fav.png>
-Package pdftex.def Info: fav.png  used on input line 38.
+<prettyPictures//fav.png, id=15, 760.8425pt x 628.3475pt>
+File: prettyPictures//fav.png Graphic file (type png)
+<use prettyPictures//fav.png>
+Package pdftex.def Info: prettyPictures//fav.png  used on input line 43.
 (pdftex.def)             Requested size: 120.7521pt x 99.72269pt.
 
-[2 <./eqtri.png> <./fav.png>]
-<angbisector.png, id=21, 27.25456pt x 21.49477pt>
-File: angbisector.png Graphic file (type png)
-<use angbisector.png>
-Package pdftex.def Info: angbisector.png  used on input line 49.
+[2 <./prettyPictures//eqtri.png> <./prettyPictures//fav.png>]
+<prettyPictures//angbisector.png, id=21, 27.25456pt x 21.49477pt>
+File: prettyPictures//angbisector.png Graphic file (type png)
+<use prettyPictures//angbisector.png>
+Package pdftex.def Info: prettyPictures//angbisector.png  used on input line 55
+.
 (pdftex.def)             Requested size: 120.7521pt x 95.24854pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--50
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 
  []
 
-<ISOC.png, id=22, 271.0125pt x 274.02374pt>
-File: ISOC.png Graphic file (type png)
-<use ISOC.png>
-Package pdftex.def Info: ISOC.png  used on input line 55.
+<prettyPictures//ISOC.png, id=22, 271.0125pt x 274.02374pt>
+File: prettyPictures//ISOC.png Graphic file (type png)
+<use prettyPictures//ISOC.png>
+Package pdftex.def Info: prettyPictures//ISOC.png  used on input line 62.
 (pdftex.def)             Requested size: 86.25pt x 87.20854pt.
-<ISOC2.png, id=23, 319.1925pt x 416.55624pt>
-File: ISOC2.png Graphic file (type png)
-<use ISOC2.png>
-Package pdftex.def Info: ISOC2.png  used on input line 63.
+<prettyPictures//ISOC2.png, id=23, 319.1925pt x 416.55624pt>
+File: prettyPictures//ISOC2.png Graphic file (type png)
+<use prettyPictures//ISOC2.png>
+Package pdftex.def Info: prettyPictures//ISOC2.png  used on input line 71.
 (pdftex.def)             Requested size: 86.25pt x 112.5543pt.
-[3 <./angbisector.png> <./ISOC.png> <./ISOC2.png>]
-<SSS.png, id=30, 385.44pt x 303.1325pt>
-File: SSS.png Graphic file (type png)
-<use SSS.png>
-Package pdftex.def Info: SSS.png  used on input line 71.
+[3 <./prettyPictures//angbisector.png> <./prettyPictures//ISOC.png> <./prettyPi
+ctures//ISOC2.png>]
+<prettyPictures//SSS.png, id=30, 385.44pt x 303.1325pt>
+File: prettyPictures//SSS.png Graphic file (type png)
+<use prettyPictures//SSS.png>
+Package pdftex.def Info: prettyPictures//SSS.png  used on input line 80.
 (pdftex.def)             Requested size: 120.7521pt x 94.96457pt.
-<perp.png, id=31, 499.8675pt x 501.875pt>
-File: perp.png Graphic file (type png)
-<use perp.png>
-Package pdftex.def Info: perp.png  used on input line 83.
+<prettyPictures//perp.png, id=31, 499.8675pt x 501.875pt>
+File: prettyPictures//perp.png Graphic file (type png)
+<use prettyPictures//perp.png>
+Package pdftex.def Info: prettyPictures//perp.png  used on input line 93.
 (pdftex.def)             Requested size: 86.25pt x 86.5965pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--90
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
 
  []
 
-[4 <./SSS.png> <./perp.png>]
-<supp.png, id=37, 437.635pt x 344.28625pt>
-File: supp.png Graphic file (type png)
-<use supp.png>
-Package pdftex.def Info: supp.png  used on input line 93.
+[4 <./prettyPictures//SSS.png> <./prettyPictures//perp.png>]
+<prettyPictures//supp.png, id=37, 437.635pt x 344.28625pt>
+File: prettyPictures//supp.png Graphic file (type png)
+<use prettyPictures//supp.png>
+Package pdftex.def Info: prettyPictures//supp.png  used on input line 104.
 (pdftex.def)             Requested size: 86.25pt x 67.85263pt.
-<vert.png, id=38, 406.51875pt x 222.8325pt>
-File: vert.png Graphic file (type png)
-<use vert.png>
-Package pdftex.def Info: vert.png  used on input line 111.
+<prettyPictures//vert.png, id=38, 406.51875pt x 222.8325pt>
+File: prettyPictures//vert.png Graphic file (type png)
+<use prettyPictures//vert.png>
+Package pdftex.def Info: prettyPictures//vert.png  used on input line 123.
 (pdftex.def)             Requested size: 86.25pt x 47.27562pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--112
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
 
  []
 
-[5 <./supp.png> <./vert.png>] (./Congruency.aux) ) 
+[5 <./prettyPictures//supp.png> <./prettyPictures//vert.png>] (./Congruency.aux
+) ) 
 Here is how much of TeX's memory you used:
- 1452 strings out of 478268
- 23488 string characters out of 5846347
- 328920 words of memory out of 5000000
- 19699 multiletter control sequences out of 15000+600000
+ 1474 strings out of 478268
+ 24707 string characters out of 5846347
+ 329048 words of memory out of 5000000
+ 19719 multiletter control sequences out of 15000+600000
  472036 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,1210b,185s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf
--dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Congruency.pdf (5 pages, 579517 bytes).
+ 55i,12n,62p,1210b,188s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr
+/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Congruency.pdf (5 pages, 579513 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
