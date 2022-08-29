@@ -1,0 +1,200 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.22)  29 AUG 2022 09:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Congruency.tex
+(./Congruency.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen141
+\WF@size=\dimen142
+\c@WF@wrappedlines=\count194
+\WF@box=\box50
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+)
+(./Congruency.aux)
+\openout1 = `Congruency.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen144
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Chapter 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
+[1
+
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<eqtri.png, id=13, 18.13248pt x 14.30048pt>
+File: eqtri.png Graphic file (type png)
+<use eqtri.png>
+Package pdftex.def Info: eqtri.png  used on input line 29.
+(pdftex.def)             Requested size: 120.7521pt x 95.2719pt.
+<fav.png, id=15, 760.8425pt x 628.3475pt>
+File: fav.png Graphic file (type png)
+<use fav.png>
+Package pdftex.def Info: fav.png  used on input line 38.
+(pdftex.def)             Requested size: 120.7521pt x 99.72269pt.
+
+[2 <./eqtri.png> <./fav.png>]
+<angbisector.png, id=21, 27.25456pt x 21.49477pt>
+File: angbisector.png Graphic file (type png)
+<use angbisector.png>
+Package pdftex.def Info: angbisector.png  used on input line 49.
+(pdftex.def)             Requested size: 120.7521pt x 95.24854pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+
+ []
+
+<ISOC.png, id=22, 271.0125pt x 274.02374pt>
+File: ISOC.png Graphic file (type png)
+<use ISOC.png>
+Package pdftex.def Info: ISOC.png  used on input line 55.
+(pdftex.def)             Requested size: 86.25pt x 87.20854pt.
+<ISOC2.png, id=23, 319.1925pt x 416.55624pt>
+File: ISOC2.png Graphic file (type png)
+<use ISOC2.png>
+Package pdftex.def Info: ISOC2.png  used on input line 63.
+(pdftex.def)             Requested size: 86.25pt x 112.5543pt.
+[3 <./angbisector.png> <./ISOC.png> <./ISOC2.png>]
+<SSS.png, id=30, 385.44pt x 303.1325pt>
+File: SSS.png Graphic file (type png)
+<use SSS.png>
+Package pdftex.def Info: SSS.png  used on input line 71.
+(pdftex.def)             Requested size: 120.7521pt x 94.96457pt.
+<perp.png, id=31, 499.8675pt x 501.875pt>
+File: perp.png Graphic file (type png)
+<use perp.png>
+Package pdftex.def Info: perp.png  used on input line 83.
+(pdftex.def)             Requested size: 86.25pt x 86.5965pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--90
+
+ []
+
+[4 <./SSS.png> <./perp.png>]
+<supp.png, id=37, 437.635pt x 344.28625pt>
+File: supp.png Graphic file (type png)
+<use supp.png>
+Package pdftex.def Info: supp.png  used on input line 93.
+(pdftex.def)             Requested size: 86.25pt x 67.85263pt.
+<vert.png, id=38, 406.51875pt x 222.8325pt>
+File: vert.png Graphic file (type png)
+<use vert.png>
+Package pdftex.def Info: vert.png  used on input line 111.
+(pdftex.def)             Requested size: 86.25pt x 47.27562pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--112
+
+ []
+
+[5 <./supp.png> <./vert.png>] (./Congruency.aux) ) 
+Here is how much of TeX's memory you used:
+ 1452 strings out of 478268
+ 23488 string characters out of 5846347
+ 328920 words of memory out of 5000000
+ 19699 multiletter control sequences out of 15000+600000
+ 472036 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,12n,62p,1210b,185s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Congruency.pdf (5 pages, 579517 bytes).
+PDF statistics:
+ 74 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

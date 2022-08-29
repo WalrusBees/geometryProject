@@ -1,0 +1,2 @@
+\beamer@subsectionintoc {0}{1}{Side-Angle-Side}{2}{0}{0}
+\beamer@subsectionintoc {0}{2}{Angle-Side-Angle}{2}{0}{0}
